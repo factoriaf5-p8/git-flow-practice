@@ -1,4 +1,4 @@
-# git-up-it
+# git flow practice
 
 
 ## Instrucciones
