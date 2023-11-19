@@ -7,6 +7,14 @@ body{
     font-family: monospace;
 }
 
+header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+
 .card-container {
     padding: 20px;
     display: grid;
